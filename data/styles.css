@@ -70,6 +70,8 @@
   color:#000000;
   text-align:left;
 }
+.flow_shape {
+}
 .form_hint {
   color:#999999;
 }
@@ -102,5 +104,9 @@
   color:#FFFFFF;
 }
 .icon {
+}
+.text_area {
+  color:#000000;
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
