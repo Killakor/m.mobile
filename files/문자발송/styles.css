@@ -505,7 +505,7 @@
   left:0px;
   top:0px;
   width:480px;
-  height:480px;
+  height:590px;
   padding:5px 5px 5px 5px;
   font-family:'Noto Sans KR', sans-serif;
   font-weight:400;
@@ -525,7 +525,7 @@
   left:0px;
   top:0px;
   width:480px;
-  height:480px;
+  height:590px;
   padding:5px 5px 5px 5px;
   font-family:'Noto Sans KR', sans-serif;
   font-weight:400;
@@ -546,7 +546,7 @@
   left:0px;
   top:0px;
   width:480px;
-  height:480px;
+  height:590px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -566,9 +566,9 @@
   border-width:0px;
   position:absolute;
   left:16px;
-  top:168px;
+  top:97px;
   width:480px;
-  height:480px;
+  height:590px;
   display:flex;
   font-family:'Noto Sans KR', sans-serif;
   font-weight:400;
@@ -588,7 +588,7 @@
   left:0px;
   top:0px;
   width:480px;
-  height:480px;
+  height:590px;
   background:inherit;
   background-color:rgba(240, 240, 240, 1);
   box-sizing:border-box;
